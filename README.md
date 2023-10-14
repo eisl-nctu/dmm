@@ -5,7 +5,7 @@ This repository contains the source code of a dynamic memory manager hardware th
 # About the RISC-V core
 Note that the source code of the RISC-V processor in this repository is based on an old version of the [Aquila project](https://github.com/eisl-nctu/aquila). The Aquila cores used in the HW TCP/IP SoC and the SW LwIP SoC are also slightly different.  We will upgrade, condense, and merge the various versions of the Aquila cores in the near future (promises, promises, ... ;).
 
-# Creation of the Vivado workspaces of Aquila SoC with DMM HW
+# Creation of the Vivado workspaces
 To create the complete Vivado workspace for the Aquila SoC with DMM hardware, you can use the build.tcl script under hw/. Simply download the hw source tree to a local directory, then run the following command under a DOS or Linux console:
 
 ```
