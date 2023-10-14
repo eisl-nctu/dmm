@@ -1,6 +1,6 @@
 # Dynamic Memory Manager in Hardware
 
-This repository contains the source code of a dynamic memory manager hardware that can be integrated into a processor core. This work is published at the 30th IFIP/IEEE International Conference on Very Large Scale Integration and System-on-Chip (VLSI-SOC), 2023. A draft of the manuscript is available [here](dmm/docs/aquila-dmm.pdf).
+This repository contains the source code of a dynamic memory manager hardware that can be integrated into a processor core. This work is published at the 30th IFIP/IEEE International Conference on Very Large Scale Integration and System-on-Chip (VLSI-SOC), 2023. A draft of the manuscript is available [here](docs/aquila-dmm.pdf).
 
 # About the RISC-V core
 Note that the source code of the RISC-V processor in this repository is based on an old version of the [Aquila project](https://github.com/eisl-nctu/aquila). The Aquila cores used in the HW TCP/IP SoC and the SW LwIP SoC are also slightly different.  We will upgrade, condense, and merge the various versions of the Aquila cores in the near future (promises, promises, ... ;).
