@@ -1,1 +1,1 @@
-# Documents for the dynamic memory manager project
+# Documents for the DMM project
